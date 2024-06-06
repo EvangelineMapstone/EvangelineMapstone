@@ -1,13 +1,15 @@
 - Hi there, I'm Evie! 👋
 
 ## 👩‍💻 About Me
-I'm a passionate aspiring Data Analyst with a keen interest in uncovering insights from data. My expertise lies in data analysis, cleaning, visualization, and manipulation, complemented by my skills in cloud computing.
+- London Local 🏙️
+- On route to career in Data 📈
+- Book Lover 📚
+- Horse rider 🐎
 
 ## 🛠️ Skills and Tools
 - **Data Analysis** 📊
 - **Data Cleaning** 🧼
 - **Data Visualization** 📈
-- **Data Manipulation** 🔄
 
 ### Tools and Technologies
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -19,10 +21,9 @@ I'm a passionate aspiring Data Analyst with a keen interest in uncovering insigh
 - ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## 🌟 Projects and Highlights
-- 🔍 **Wealth of Nations Data Analysis**: Analyzed the Wealth of Nations dataset, performed data cleaning, filtering, sorting, and created visualizations using Excel and Tableau.
-- 📊 **Interactive Dashboards**: Developed interactive dashboards in Tableau to visualize key socio-economic indicators across different countries.
-- ☁️ **Cloud-Based Data Solutions**: Utilized Azure for cloud computing solutions and data storage.
+- 🌍 **Wealth of Nations Data Analysis**: Analyzed the Wealth of Nations dataset, performed data cleaning, filtering, sorting, and created visualisations using Excel and Tableau.
+- 📊 **Interactive Dashboards**: Developed interactive dashboards in Tableau and Power BI using data cleaning and visualisation tools.
+- 🔍**SQL Tasks**: Extracted information from data tables using Sturcted Query Language commands to obtain restuls from different scenarios.
 
--
 
 Feel free to explore my repositories and get in touch if you want to collaborate on exciting data projects!
